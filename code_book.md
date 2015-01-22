@@ -18,8 +18,8 @@ The accelerometers measure acceleration while the gyrometers measure angular vel
 * meanAngleBtwn: The mean angle between two measurement's vectors.
 
 ## Full feature list:		
-* activity:		
-* subject:		
+* activity:		One of six physical activities performed by the subject.
+* subject:		Subject Number (1-30)
 * Body_Accel_mean_Xaxis:	Mean of the body's component of acceleration along the X axis.
 * Body_Accel_mean_Yaxis:	Mean of the body's component of acceleration along the Y axis.
 * Body_Accel_mean_Zaxis:	Mean of	the body's component of acceleration along the Z axis.
