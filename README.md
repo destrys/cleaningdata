@@ -18,6 +18,7 @@ The following steps are performed in the code:
   *  train/X_train.txt: training phone data
   *  train/y_train.txt: training activity numbers
   *  train/subject_train: training subject numbers
+  
   For this project I combined the phone, subject, and activity data
   into a dataframe by adding the subject and activity data as new columns. I then concatenated the rows of  the training and test datframes
   to create a single dataframe
