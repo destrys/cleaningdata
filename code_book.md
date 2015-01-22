@@ -16,3 +16,93 @@ The accelerometers measure acceleration while the gyrometers measure angular vel
 * X/Y/Zaxis: The data were measured along either the X, Y, or Z axis.
 * Magnitude: Using the X/Y/Zaxis data, the absolute magnitude of the measure was calculated using the Euclian norm.
 * meanAngleBtwn: The mean angle between two measurement's vectors.
+
+## Full feature list:		
+* activity:		
+* subject:		
+* Body_Accel_mean_Xaxis:	Mean of the body's component of acceleration along the X axis.
+* Body_Accel_mean_Yaxis:	Mean of the body's component of acceleration along the Y axis.
+* Body_Accel_mean_Zaxis:	Mean of	the body's component of acceleration along the Z axis.
+* Body_Accel_std_Xaxis:		Standard Deviation of the body's component of acceleration along the X axis.
+* Body_Accel_std_Yaxis:		Standard Deviation of the body's component of acceleration along the Y axis.
+* Body_Accel_std_Zaxis:		Standard Deviation of the body's component of acceleration along the Z axis.
+* Gravity_Accel_mean_Xaxis:	Mean of gravity's component of acceleration along the X axis.
+* Gravity_Accel_mean_Yaxis:	Mean of	gravity's component of acceleration along the Y axis.
+* Gravity_Accel_mean_Zaxis:	Mean of	gravity's component of acceleration along the Z axis.
+* Gravity_Accel_std_Xaxis:	Standard Deviation of gravity's component of acceleration along the X axis.
+* Gravity_Accel_std_Yaxis:	Standard Deviation of gravity's component of acceleration along the Y axis.
+* Gravity_Accel_std_Zaxis:	Standard Deviation of gravity's component of acceleration along the Z axis.
+* Body_Accel_Jerk_mean_Xaxis:	Mean of the derivative of the body's component of acceleration along the X axis.
+* Body_Accel_Jerk_mean_Yaxis:	Mean of	the derivative of the body's component of acceleration along the Y axis.
+* Body_Accel_Jerk_mean_Zaxis:	Mean of	the derivative of the body's component of acceleration along the Z axis.
+* Body_Accel_Jerk_std_Xaxis:	Standard Deviation of the derivative of the body's component of acceleration along the X axis.
+* Body_Accel_Jerk_std_Yaxis:	Standard Deviation of the derivative of the body's component of acceleration along the Y axis.
+* Body_Accel_Jerk_std_Zaxis:	Standard Deviation of the derivative of the body's component of acceleration along the Z axis.
+* Body_Gyro_mean_Xaxis:		Mean of the body's component of rotation around the X axis.
+* Body_Gyro_mean_Yaxis:		Mean of the body's component of	rotation around	the Y axis.
+* Body_Gyro_mean_Zaxis:		Mean of the body's component of	rotation around	the Z axis.
+* Body_Gyro_std_Xaxis:		Standard Deviation of the body's component of rotation around the X axis.
+* Body_Gyro_std_Yaxis:		Standard Deviation of the body's component of rotation around the Y axis.
+* Body_Gyro_std_Zaxis:		Standard Deviation of the body's component of rotation around the Z axis.
+* Body_Gyro_Jerk_mean_Xaxis:	Mean of	the derivative of the body's component of rotation around the X axis.
+* Body_Gyro_Jerk_mean_Yaxis:	Mean of	the derivative of the body's component of rotation around the Y axis.
+* Body_Gyro_Jerk_mean_Zaxis:	Mean of	the derivative of the body's component of rotation around the Z axis.
+* Body_Gyro_Jerk_std_Xaxis:	Standard Deviation of the derivative of the body's component of rotation around the X axis.
+* Body_Gyro_Jerk_std_Yaxis:	Standard Deviation of the derivative of the body's component of rotation around the Y axis.
+* Body_Gyro_Jerk_std_Zaxis:	Standard Deviation of the derivative of the body's component of rotation around the Z axis.
+* Body_Accel_Magnitude_mean:	Mean of the Magnitude of the body's component of acceleration.
+* Body_Accel_Magnitude_std:	Standard Deviation of the Magnitude of the body's component of acceleration.
+* Gravity_Accel_Magnitude_mean:	Mean of the Magnitude of gravity's component of acceleration.
+* Gravity_Accel_Magnitude_std:	Standard Deviation of the Magnitude of gravity's component of acceleration.
+* Body_Accel_Jerk_Magnitude_mean:	Mean of	the Magnitude of the derivative of the body's component of acceleration.
+* Body_Accel_Jerk_Magnitude_std:	Standard Deviation of the Magnitude of the derivative of the body's component of acceleration.
+* Body_Gyro_Magnitude_mean:		Mean of the Magnitude of the body's component of rotation.
+* Body_Gyro_Magnitude_std:		Standard Deviation of the Magnitude of the body's component ofrotation.
+* Body_Gyro_Jerk_Magnitude_mean:	Mean of the Magnitude of the derivative of the body's component of rotation.
+* Body_Gyro_Jerk_Magnitude_std:		Standard Deviation of the Magnitude of the derivative of the body's component of rotation.
+* FFT_Body_Accel_mean_Xaxis:	Mean of the frequencies of the body's component of acceleration along the X axis.
+* FFT_Body_Accel_mean_Yaxis:	Mean of	the frequencies	of the body's component of acceleration along the Y axis.
+* FFT_Body_Accel_mean_Zaxis:	Mean of	the frequencies	of the body's component of acceleration along the Z axis.
+* FFT_Body_Accel_std_Xaxis:	Standard Deviation of the frequencies of the body's component of acceleration along the X axis.
+* FFT_Body_Accel_std_Yaxis:	Standard Deviation of the frequencies of the body's component of acceleration along the Y axis.
+* FFT_Body_Accel_std_Zaxis:	Standard Deviation of the frequencies of the body's component of acceleration along the Z axis.
+* FFT_Body_Accel_weightedMean_Xaxis:	Weighted Mean of the frequencies of the body's component of acceleration along the X axis.
+* FFT_Body_Accel_weightedMean_Yaxis:	Weighted Mean of the frequencies of the body's component of acceleration along the Y axis.
+* FFT_Body_Accel_weightedMean_Zaxis:	Weighted Mean of the frequencies of the body's component of acceleration along the Z axis.
+* FFT_Body_Accel_Jerk_mean_Xaxis:	Mean of	the frequencies of the derivative of the body's component of acceleration along the X axis.
+* FFT_Body_Accel_Jerk_mean_Yaxis:	Mean of the frequencies of the derivative of the body's component of acceleration along the Y axis.
+* FFT_Body_Accel_Jerk_mean_Zaxis:	Mean of the frequencies of the derivative of the body's component of acceleration along the Z axis.
+* FFT_Body_Accel_Jerk_std_Xaxis:	Standard Deviation of the frequencies of the derivative of the body's component of acceleration along the X axis.
+* FFT_Body_Accel_Jerk_std_Yaxis:	Standard Deviation of the frequencies of the derivative of the body's component of acceleration along the Y axis.
+* FFT_Body_Accel_Jerk_std_Zaxis:	Standard Deviation of the frequencies of the derivative of the body's component of acceleration along the Z axis.
+* FFT_Body_Accel_Jerk_weightedMean_Xaxis:	Weighted Mean of the frequencies of the derivative of the body's component of acceleration along the X axis.
+* FFT_Body_Accel_Jerk_weightedMean_Yaxis:	Weighted Mean of the frequencies of the derivative of the body's component of acceleration along the Y axis.
+* FFT_Body_Accel_Jerk_weightedMean_Zaxis:	Weighted Mean of the frequencies of the derivative of the body's component of acceleration along the Z axis.
+* FFT_Body_Gyro_mean_Xaxis:	Mean of the frequencies of the body's component of rotation around the X axis.
+* FFT_Body_Gyro_mean_Yaxis:	Mean of the frequencies of the body's component of rotation around the Y axis.
+* FFT_Body_Gyro_mean_Zaxis:	Mean of the frequencies of the body's component of rotation around the Z axis.
+* FFT_Body_Gyro_std_Xaxis:	Standard Deviation of the frequencies of the body's component of rotation around the X axis.
+* FFT_Body_Gyro_std_Yaxis:	Standard Deviation of the frequencies of the body's component of rotation around the Y axis.
+* FFT_Body_Gyro_std_Zaxis:	Standard Deviation of the frequencies of the body's component of rotation around the Z axis.
+* FFT_Body_Gyro_weightedMean_Xaxis:	Weighted Mean of the frequencies of the body's component of rotation around the X axis.
+* FFT_Body_Gyro_weightedMean_Yaxis:	Weighted Mean of the frequencies of the body's component of rotation around the Y axis.
+* FFT_Body_Gyro_weightedMean_Zaxis:	Weighted Mean of the frequencies of the body's component of rotation around the Z axis.
+* FFT_Body_Accel_Magnitude_mean:	Mean of	the Magnitude of the frequencies of the body's component of acceleration.
+* FFT_Body_Accel_Magnitude_std:		Standard Deviation of the Magnitude of the frequencies of the body's component of acceleration.
+* FFT_Body_Accel_Magnitude_weightedMean:	Weighted Mean of the Magnitude of the frequencies of the body's component of acceleration.
+* FFT_Body_Accel_Jerk_Magnitude_mean:	Mean of the Magnitude of the frequencies of the derivative of the body's component of acceleration.
+* FFT_Body_Accel_Jerk_Magnitude_std:	Standard Deviation of the Magnitude of the frequencies of the derivative of the body's component of acceleration.
+* FFT_Body_Accel_Jerk_Magnitude_weightedMean:	Weighted Mean of the Magnitude of the frequencies of the derivative of the body's component of acceleration.
+* FFT_Body_Gyro_Magnitude_mean:		Mean of the Magnitude of the frequencies of the body's component of rotation.
+* FFT_Body_Gyro_Magnitude_std:		Standard Deviation of the Magnitude of the frequencies of the body's component of rotation.
+* FFT_Body_Gyro_Magnitude_weightedMean:	Weighted Mean of the Magnitude of the frequencies of the body's component of rotation.
+* FFT_Body_Gyro_Jerk_Magnitude_mean:	Mean of the Magnitude of the derivative of the frequencies of the body's component of rotation
+* FFT_Body_Gyro_Jerk_Magnitude_std:	Standard Deviation of the Magnitude of the derivative of the frequencies of the body's component of rotation
+* FFT_Body_Gyro_Jerk_Magnitude_weightedMean:	Weighted Mean of the Magnitude of the derivative of the frequencies of the body's component of rotation.
+* meanAngleBtwn__Body_Accel_mean__and__Gravity_mean:	Mean Angle between the mean of the body's component of acceleration and the mean of gravity's component of acceleration.
+* meanAngleBtwn__Body_Accel_Jerk_mean__and__Gravity_mean:	Mean Angle between the mean of the derivative of the body's component of acceleration and the mean of gravity's component of acceleration.
+* meanAngleBtwn__Body_Gyro_mean__and__Gravity_mean:		Mean Angle between the mean of the body's component of rotation and the mean of gravity's component of acceleration.
+* meanAngleBtwn__Body_Gyro_Jerk_mean__and__Gravity_mean:	Mean Angle between the mean of the derivative of the body's component of rotation and the mean of gravity's component of acceleration.
+* meanAngleBtwn__Xaxis__and__Gravity_mean:		Mean Angle between the X axis and gravity's component of acceleration.
+* meanAngleBtwn__Yaxis__and__Gravity_mean:		Mean Angle between the Y axis and gravity's component of acceleration.
+* meanAngleBtwn__Zaxis__and__Gravity_mean:		Mean Angle between the Z axis and gravity's component of acceleration.
