@@ -1,4 +1,4 @@
-# cleaningdata
+# destrys/cleaningdata
 This repo contains a script to clean and summarize a dataset of activity measurements from a Samsung Galaxy S smartphone.
 
 ## Initial Data
