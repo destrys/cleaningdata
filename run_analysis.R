@@ -77,3 +77,4 @@ rawmelt <- melt(raw, id.vars = c("activity", "subject"))
 feature_averages <- dcast(rawmelt, activity + subject ~ variable, mean)
 
 # Print averages dataframe to a text file.
+write.table(feature_averages, "feature_averages.txt", row.names = FALSE)
